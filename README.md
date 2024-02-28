@@ -42,6 +42,6 @@ Players can use these blocks to create environments or structures that represent
 - Assets: CC0 License
 
 **Contribution:**
-- To contribute to the "minetest_emotions" mod, please refer to our [CONTRIBUTION.md](link-to-contribution-file) for guidelines.
+- To contribute to the "minetest_emotions" mod, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 Enjoy exploring the world of emotions in Minetest!
